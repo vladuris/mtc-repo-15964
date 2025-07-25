@@ -1,2 +1,1 @@
-# mtc-repo-15964
-Code for MTC
+# This dev repository is for infrastructure developers.
